@@ -1,7 +1,9 @@
 ## Hi There!! 🙋🏻‍♂️
 This is Saad Ahmad! 
 
-Self-motivated and self-taught not so famous (yet). Striving to become great at his field! Wants bigger things in life. Making the most out of the present and thinks, he can expect an exciting future. Can be found playing computer games, helping others, coding, or learning something new.
+A student of computer science… Striving to become great at his field! Can be found playing computer games, helping others, coding, or learning something new.
+
+I am currently working on Web development.
 
 ## More About me:
 - 🌱 I’m currently learning Python/C++/Java/HTML&CSS...
