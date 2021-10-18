@@ -1,4 +1,4 @@
-[![Ayyzenn](./img/ok.png)](https://ayyzenn.dev)
+[![Ayyzenn](./img/img.png)](https://ayyzenn.dev)
 
 
 
