@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./img/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://ayyzenn.dev)
+[![Ayyzenn](./img/ok.png)](https://ayyzenn.dev)
 
 
 
