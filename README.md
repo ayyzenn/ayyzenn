@@ -12,3 +12,8 @@ Currently working on Web development.
 ## More About me:
 - 🌱 I’m currently learning Python/C++/Java/HTML&CSS...
 - 💬 Ask me about Python/C++...
+
+
+
+[![Ayyzenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
