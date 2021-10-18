@@ -1,3 +1,7 @@
+[![Braydon's GitHub Banner](./img/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://ayyzenn.dev)
+
+
+
 ## Hi There!! 🙋🏻‍♂️
 This is Saad Ahmad-aka ayyzenn! 
 
