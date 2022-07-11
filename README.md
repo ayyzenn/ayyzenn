@@ -12,8 +12,6 @@ Currently working on Web development.
 ## More About me:
 - 🌱 I’m currently learning Python/C++/Java/HTML&CSS...
 - 💬 Ask me about Python/C++...
-
-<br>
 <hr>
 <br>
 <div>
@@ -33,6 +31,8 @@ Currently working on Web development.
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
+<hr>
+<br>
   
 <!-- [![Ayyzenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayyzenn&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
