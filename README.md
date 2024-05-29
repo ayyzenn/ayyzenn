@@ -2,10 +2,9 @@
 
 
 
-## Hi There!! 🙋🏻‍♂️
-This is Saad Ahmad-aka ayyzenn! 
+## Hello! 👋
 
-A student of Computer Science… Self-motivated and enthusiastic to learn new skills. Striving to become great at his field! Can be found playing computer games, helping others, coding, or learning something new.
+I'm Saad Ahmad, also known as Ayyzenn. I'm a student at FAST NUCES with a strong passion for learning and growth. Self-motivated and enthusiastic, I am dedicated to mastering new skills and excelling in my field. My interests and expertise lie in DevOps, Linux, MLOps, and System Administration. Whether I'm coding, working on infrastructure, assisting others, or expanding my knowledge, I am constantly striving to improve and make a positive impact. In my free time, you might find me playing computer games or exploring new technologies.
 
 <hr>
 <br>
