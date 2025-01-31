@@ -52,11 +52,9 @@
 
 ### 📫 Connect with Me
 
-- 🌐 [Portfolio](https://ayyzenn.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayyzenn/)
-- 🐦 [Twitter](https://twitter.com/ayyzenn)
-- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [Portfolio](https://ayyzenn.wordpress.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-ayyzenn/)
+- 📧 [Email](mailto:saad.ahmad1024@gmail.com)
 
 ---
-
-🔥 _"Technology is best when it brings people together!"_ 🔥
+<h3 align="center">🔥 _"Technology is best when it brings people together!"_ 🔥</h3>
