@@ -52,7 +52,7 @@
 
 ### 📫 Connect with Me
 
-- 🌐 [Portfolio](https://ayyzenn.wordpress.com)
+- 🌐 [Portfolio](https://ayyzenn.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-ayyzenn/)
 - 📧 [Email](mailto:saad.ahmad1024@gmail.com)
 
