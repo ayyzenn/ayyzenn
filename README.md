@@ -1,14 +1,10 @@
-<!-- [![Ayyzenn](./img/img.png)](https://ayyzenn.dev) -->
+# Hey there! 👋 I'm Saad Ahmad (Ayyzenn)
 
-<h1 align="center">Hey there! 👋 I'm Saad Ahmad (Ayyzenn)</h1>
-
-<p align="center">
-  <em>A passionate DevOps enthusiast, Linux geek, and aspiring MLOps & System Administration expert!</em>
-</p>
+_A passionate DevOps enthusiast, Linux geek, and aspiring MLOps & System Administration expert!_
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Student at **FAST NUCES**
 - 💡 Passionate about **DevOps, Linux, MLOps, and System Administration**
@@ -18,43 +14,34 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-</div>
+
+|                                                             |                                                                 |                                                        |                                                                         |                                                                |                                                              |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Python](/about/python-original.svg) **Python**            | ![Anaconda](/about/anaconda-original-wordmark.svg) **Anaconda** | ![Jupyter](/about/jupyter-original.svg) **Jupyter**    | ![Pandas](/about/pandas-original.svg) **Pandas**                        | ![HTML5](/about/html5-original.svg) **HTML5**                  | ![JavaScript](/about/javascript-original.svg) **JavaScript** |
+| ![Node.js](/about/nodejs-original.svg) **Node.js**          | ![React](/about/react-original.svg) **React**                   | ![MongoDB](/about/mongodb-original.svg) **MongoDB**    | ![Azure](/about/azure-original.svg) **Azure**                           | ![Docker](/about/docker-original.svg) **Docker**               | ![Linux](/about/linux-original.svg) **Linux**                |
+| ![Bash](/about/bash-original.svg) **Bash**                  | ![VS Code](/about/vscode-original.svg) **VS Code**              | ![Git](/about/git-original.svg) **Git**                | ![GitHub](/about/github-original.svg) **GitHub**                        | ![AWS](/about/amazonwebservices-original-wordmark.svg) **AWS** | ![Apache](/about/apache-original-wordmark.svg) **Apache**    |
+| ![Arch Linux](/about/archlinux-original.svg) **Arch Linux** | ![C](/about/c-original.svg) **C**                               | ![Debian](/about/debian-original.svg) **Debian**       | ![DigitalOcean](/about/digitalocean-original.svg) **DigitalOcean**      | ![Django](/about/django-plain.svg) **Django**                  | ![GCC](/about/gcc-original.svg) **GCC**                      |
+| ![Gentoo](/about/gentoo-original.svg) **Gentoo**            | ![Google](/about/google-original.svg) **Google**                | ![Grafana](/about/grafana-original.svg) **Grafana**    | ![Hadoop](/about/hadoop-original.svg) **Hadoop**                        | ![Hugo](/about/hugo-original.svg) **Hugo**                     | ![Jenkins](/about/jenkins-original.svg) **Jenkins**          |
+| ![Kaggle](/about/kaggle-original.svg) **Kaggle**            | ![Keras](/about/keras-original.svg) **Keras**                   | ![Markdown](/about/markdown-original.svg) **Markdown** | ![NumPy](/about/numpy-original.svg) **NumPy**                           | ![PHP](/about/php-original.svg) **PHP**                        | ![Rust](/about/rust-original.svg) **Rust**                   |
+| ![Selenium](/about/selenium-original.svg) **Selenium**      | ![Slack](/about/slack-original.svg) **Slack**                   | ![SSH](/about/ssh-original.svg) **SSH**                | ![Stack Overflow](/about/stackoverflow-original.svg) **Stack Overflow** | ![Terraform](/about/terraform-original.svg) **Terraform**      | ![TeX](/about/tex-original.svg) **TeX**                      |
+| ![Ubuntu](/about/ubuntu-original.svg) **Ubuntu**            | ![Unix](/about/unix-original.svg) **Unix**                      | ![Vim](/about/vim-original.svg) **Vim**                | ![WordPress](/about/wordpress-original.svg) **WordPress**               | ![YAML](/about/yaml-original.svg) **YAML**                     |                                                              |
 
 ---
 
-### 📊 GitHub Stats & Streak
+## 📊 GitHub Stats & Streak
 
-<p align="center">
-  <a href="https://github.com/ayyzenn">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyzenn&theme=dark&hide_border=true"/>
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayyzenn&theme=dark&hide_border=true)
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
-- 🌐 [Portfolio](https://ayyzenn.github.io)
+- 🌐 [GitHub](https://github.com/ayyzenn)
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-ayyzenn/)
 - 📧 [Email](mailto:saad.ahmad1024@gmail.com)
 
 ---
-<h3 align="center">🔥 _"Technology is best when it brings people together!"_ 🔥</h3>
+
+### _"They call us dreamers… But we are the one who don’t sleep…!!"_
