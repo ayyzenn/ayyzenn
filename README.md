@@ -16,8 +16,6 @@ _A passionate DevOps enthusiast, Linux geek, and aspiring MLOps & System Adminis
 
 ## 🛠️ Tech Stack
 
-
-|                                                             |                                                                 |                                                        |                                                                         |                                                                |                                                              |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Python](/about/python-original.svg) **Python**            | ![Anaconda](/about/anaconda-original-wordmark.svg) **Anaconda** | ![Jupyter](/about/jupyter-original.svg) **Jupyter**    | ![Pandas](/about/pandas-original.svg) **Pandas**                        | ![HTML5](/about/html5-original.svg) **HTML5**                  | ![JavaScript](/about/javascript-original.svg) **JavaScript** |
 | ![Node.js](/about/nodejs-original.svg) **Node.js**          | ![React](/about/react-original.svg) **React**                   | ![MongoDB](/about/mongodb-original.svg) **MongoDB**    | ![Azure](/about/azure-original.svg) **Azure**                           | ![Docker](/about/docker-original.svg) **Docker**               | ![Linux](/about/linux-original.svg) **Linux**                |
