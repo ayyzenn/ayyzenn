@@ -48,7 +48,6 @@
 ## 💌 Connect with Me
 
 - 🌐 [Portfolio](https://ayyzenn.github.io)
-- 🌐 [GitHub](https://github.com/ayyzenn)
 - 🎓 [LinkedIn](https://www.linkedin.com/in/s-ayyzenn/)
 - 📧 [Email](mailto:saad.ahmad1024@gmail.com)
 
