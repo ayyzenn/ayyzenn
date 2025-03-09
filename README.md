@@ -10,6 +10,9 @@
 
 - 🎓 Student at **FAST NUCES**
 - 💡 Passionate about **DevOps, Linux, MLOps, and System Administration**
+- 🔥 Always learning and growing, eager to take on new challenges
+- 💻 Love working with **infrastructure, automation, and cloud technologies**
+- 🎮 In my free time, you'll find me **gaming** or exploring **new tech**
 
 ---
 
