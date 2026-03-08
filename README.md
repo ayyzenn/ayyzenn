@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=150&section=header&text=Saad%20Ahmad&fontSize=42&fontColor=FFFFFF&fontAlignY=28&desc=ayyzenn&descSize=16&descColor=00D9FF&descAlignY=42&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=230&section=header&text=Saad%20Ahmad&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=ayyzenn&descSize=20&descColor=00D9FF&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=55&lines=I+build+infrastructure+that+builds+itself.;I+teach+machines+to+talk+to+databases.;Arch+Linux+%2B+i3.+No+desktop.+No+excuses." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=90&lines=I+build+infrastructure+that+builds+itself.;I+teach+machines+to+talk+to+databases.;Arch+Linux+%2B+i3.+No+desktop.+No+excuses." alt="Typing SVG" /></a>
 
 <br/><br/>
 
